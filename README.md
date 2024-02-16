@@ -1,5 +1,7 @@
 Statement of Problem
-This dashboard seeks help HR understand their employees and how much they really work in the organization. It shows the total number of employees in the organization, It also shows job involvement by various department. It shows how training helps each department and which department improved because of the training.
+This dashboard seeks help HR understand their employees and how much they really work in the organization. 
+It shows the total number of employees in the organization, It also shows job involvement by various department. 
+It shows how training helps each department and which department improved because of the training.
 STEPS
 •	Load data set into power bi
 •	Check for errors
