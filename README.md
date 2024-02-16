@@ -50,7 +50,8 @@ Female Employees in R&D -37896
 
 Female Employees in Sales-19884
 
-(3).Performance Rating by Departnent
+(3).Performance Rating by Department
+
 Research and Development Department-3058
 
 Sales Department-1411
