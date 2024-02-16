@@ -50,4 +50,22 @@ Female Employees in R&D -37896
 
 Female Employees in Sales-19884
 
-(3)
+(3).Performance Rating by Departnent
+Research and Development Department-3058
+
+Sales Department-1411
+
+Human Resource Department-198
+
+End note -R&D department performs better than other department. Human resource department has the lowest performance rate
+
+(4).Sum of Training Times by Department
+
+R&D department training -2700
+
+Sales Department Training-1280
+
+Human Resource Department-161
+
+End note - Human Resource Department do not get enough training which makes the department has the lowest performace rating.Research and Development department undergo a lot of training and this makes them the top performer in the organisation.
+
